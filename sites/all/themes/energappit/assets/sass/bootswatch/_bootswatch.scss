@@ -13,6 +13,7 @@
   left: 0;
   right: 0;
   top: 0;
+  @include box-shadow(0px 1px 1px 0px rgba(black, 0.3));
 }
 
 .navbar {
@@ -49,6 +50,7 @@
         border-radius: 2px;
         padding: 0 15px;
         margin: 24.5px 15px;
+        &.active,
         &:hover {
           background: transparent;
           border-color: $brand;
@@ -109,7 +111,8 @@ body {
 }
 
 .page-header {
-  border-bottom-color: $table-border-color;
+  margin-top: 35px;
+  border: none;
 }
 
 .dropdown-menu {

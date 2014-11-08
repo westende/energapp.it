@@ -1,9 +1,11 @@
 // Styles for individual pages
 // --------------------------------------------------
-.pane-fpid-1 {
+.pane-fpid-2 {
   position: relative;
+  background-image: url(../images/home.jpg);
+  background-size: cover;
 
-  .field-name-field-basic-image-caption {
+  .field-name-field-basic-text-text{
     position: absolute;
     z-index: 10;
     top: 50%;

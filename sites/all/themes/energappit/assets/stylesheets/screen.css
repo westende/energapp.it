@@ -1432,12 +1432,12 @@ textarea {
 
 /* line 48, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_scaffolding.scss */
 a {
-  color: #df691a;
+  color: #539800;
   text-decoration: none;
 }
 /* line 53, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_scaffolding.scss */
 a:hover, a:focus {
-  color: #df691a;
+  color: #539800;
   text-decoration: underline;
 }
 /* line 58, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_scaffolding.scss */
@@ -1475,7 +1475,7 @@ img {
   line-height: 1.428571429;
   background-color: white;
   border: 1px solid #dddddd;
-  border-radius: 0;
+  border-radius: 2px;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -1494,7 +1494,7 @@ hr {
   margin-top: 21px;
   margin-bottom: 21px;
   border: 0;
-  border-top: 1px solid #4e5d6c;
+  border-top: 1px solid #539800;
 }
 
 /* line 125, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_scaffolding.scss */
@@ -1691,17 +1691,17 @@ mark,
 
 /* line 102, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_type.scss */
 .text-muted {
-  color: #4e5d6c;
+  color: #539800;
 }
 
 /* line 5, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss */
 .text-primary {
-  color: #df691a;
+  color: #539800;
 }
 
 /* line 8, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss */
 a.text-primary:hover {
-  color: #b15315;
+  color: #376500;
 }
 
 /* line 5, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss */
@@ -1751,12 +1751,12 @@ a.text-danger:hover {
 
 /* line 5, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_background-variant.scss */
 .bg-primary {
-  background-color: #df691a;
+  background-color: #539800;
 }
 
 /* line 8, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_background-variant.scss */
 a.bg-primary:hover {
-  background-color: #b15315;
+  background-color: #376500;
 }
 
 /* line 5, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_background-variant.scss */
@@ -1891,7 +1891,7 @@ dd {
 abbr[title],
 abbr[data-original-title] {
   cursor: help;
-  border-bottom: 1px dotted #4e5d6c;
+  border-bottom: 1px dotted #539800;
 }
 
 /* line 235, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_type.scss */
@@ -1905,7 +1905,7 @@ blockquote {
   padding: 10.5px 21px;
   margin: 0 0 21px;
   font-size: 18.75px;
-  border-left: 5px solid #4e5d6c;
+  border-left: 5px solid #539800;
 }
 /* line 250, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_type.scss */
 blockquote p:last-child,
@@ -1934,7 +1934,7 @@ blockquote .small:before {
 blockquote.pull-right {
   padding-right: 15px;
   padding-left: 0;
-  border-right: 5px solid #4e5d6c;
+  border-right: 5px solid #539800;
   border-left: 0;
   text-align: right;
 }
@@ -1978,7 +1978,7 @@ code {
   font-size: 90%;
   color: #c7254e;
   background-color: #f9f2f4;
-  border-radius: 0;
+  border-radius: 2px;
 }
 
 /* line 24, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_code.scss */
@@ -2010,7 +2010,7 @@ pre {
   color: #333333;
   background-color: whitesmoke;
   border: 1px solid #cccccc;
-  border-radius: 0;
+  border-radius: 2px;
 }
 /* line 55, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_code.scss */
 pre code {
@@ -3155,7 +3155,7 @@ table {
 caption {
   padding-top: 6px;
   padding-bottom: 6px;
-  color: #4e5d6c;
+  color: #539800;
   text-align: left;
 }
 
@@ -3180,12 +3180,12 @@ th {
   padding: 6px;
   line-height: 1.428571429;
   vertical-align: top;
-  border-top: 1px solid #4e5d6c;
+  border-top: 1px solid #539800;
 }
 /* line 41, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
 .table > thead > tr > th {
   vertical-align: bottom;
-  border-bottom: 2px solid #4e5d6c;
+  border-bottom: 2px solid #539800;
 }
 /* line 51, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
 .table > caption + thead > tr:first-child > th,
@@ -3198,7 +3198,7 @@ th {
 }
 /* line 57, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
 .table > tbody + tbody {
-  border-top: 2px solid #4e5d6c;
+  border-top: 2px solid #539800;
 }
 /* line 62, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
 .table .table {
@@ -3217,7 +3217,7 @@ th {
 
 /* line 88, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
 .table-bordered, .calendar-calendar table.mini {
-  border: 1px solid #4e5d6c;
+  border: 1px solid #539800;
 }
 /* line 95, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
 .table-bordered > thead > tr > th, .calendar-calendar table.mini > thead > tr > th,
@@ -3231,7 +3231,7 @@ th {
 .calendar-calendar table.mini > tfoot > tr > th,
 .table-bordered > tfoot > tr > td,
 .calendar-calendar table.mini > tfoot > tr > td {
-  border: 1px solid #4e5d6c;
+  border: 1px solid #539800;
 }
 /* line 102, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
 .table-bordered > thead > tr > th, .calendar-calendar table.mini > thead > tr > th,
@@ -3242,12 +3242,12 @@ th {
 
 /* line 114, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
 .table-striped > tbody > tr:nth-child(odd) {
-  background-color: #4e5d6c;
+  background-color: #539800;
 }
 
 /* line 125, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
 .table-hover > tbody > tr:hover {
-  background-color: #485563;
+  background-color: #4b8900;
 }
 
 /* line 135, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
@@ -3276,13 +3276,13 @@ table th[class*="col-"] {
 .table > tfoot > tr > th.active,
 .table > tfoot > tr.active > td,
 .table > tfoot > tr.active > th {
-  background-color: #485563;
+  background-color: #4b8900;
 }
 
 /* line 24, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_table-row.scss */
 .table-hover > tbody > tr > td.active:hover,
 .table-hover > tbody > tr > th.active:hover, .table-hover > tbody > tr.active:hover > td, .table-hover > tbody > tr:hover > .active, .table-hover > tbody > tr.active:hover > th {
-  background-color: #3d4954;
+  background-color: #3d6f00;
 }
 
 /* line 12, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_table-row.scss */
@@ -3377,7 +3377,7 @@ table th[class*="col-"] {
     margin-bottom: 15.75px;
     overflow-y: hidden;
     -ms-overflow-style: -ms-autohiding-scrollbar;
-    border: 1px solid #4e5d6c;
+    border: 1px solid #539800;
   }
   /* line 183, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tables.scss */
   .table-responsive > .table {
@@ -3454,7 +3454,7 @@ legend {
   line-height: inherit;
   color: black;
   border: 0;
-  border-bottom: 1px solid #4e5d6c;
+  border-bottom: 1px solid #539800;
 }
 
 /* line 32, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_forms.scss */
@@ -3512,7 +3512,7 @@ output {
   padding-top: 9px;
   font-size: 15px;
   line-height: 1.428571429;
-  color: white;
+  color: black;
 }
 
 /* line 115, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_forms.scss */
@@ -3523,11 +3523,11 @@ output {
   padding: 8px 16px;
   font-size: 15px;
   line-height: 1.428571429;
-  color: white;
+  color: black;
   background-color: white;
   background-image: none;
   border: 1px solid rgba(255, 255, 255, 0);
-  border-radius: 0;
+  border-radius: 2px;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
   -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
@@ -3536,23 +3536,23 @@ output {
 }
 /* line 57, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_forms.scss */
 .form-control:focus {
-  border-color: white;
+  border-color: #539800;
   outline: 0;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 255, 255, 0.6);
-  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 255, 255, 0.6);
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(83, 152, 0, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(83, 152, 0, 0.6);
 }
 /* line 103, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss */
 .form-control::-moz-placeholder {
-  color: #4e5d6c;
+  color: #333333;
   opacity: 1;
 }
 /* line 107, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss */
 .form-control:-ms-input-placeholder {
-  color: #4e5d6c;
+  color: #333333;
 }
 /* line 108, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss */
 .form-control::-webkit-input-placeholder {
-  color: #4e5d6c;
+  color: #333333;
 }
 /* line 143, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_forms.scss */
 .form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
@@ -4117,7 +4117,7 @@ select[multiple].input-lg,
   padding: 8px 16px;
   font-size: 15px;
   line-height: 1.428571429;
-  border-radius: 0;
+  border-radius: 2px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -4154,13 +4154,13 @@ select[multiple].input-lg,
 /* line 60, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-default {
   color: white;
-  background-color: #4e5d6c;
+  background-color: #539800;
   border-color: rgba(255, 255, 255, 0);
 }
 /* line 16, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .btn-default.dropdown-toggle {
   color: white;
-  background-color: #39444e;
+  background-color: #376500;
   border-color: rgba(255, 194, 194, 0);
 }
 /* line 23, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
@@ -4169,25 +4169,25 @@ select[multiple].input-lg,
 }
 /* line 34, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
 .btn-default.disabled, .btn-default.disabled:hover, .btn-default.disabled:focus, .btn-default.disabled.focus, .btn-default.disabled:active, .btn-default.disabled.active, .btn-default[disabled], .btn-default[disabled]:hover, .btn-default[disabled]:focus, .btn-default[disabled].focus, .btn-default[disabled]:active, .btn-default[disabled].active, fieldset[disabled] .btn-default, fieldset[disabled] .btn-default:hover, fieldset[disabled] .btn-default:focus, fieldset[disabled] .btn-default.focus, fieldset[disabled] .btn-default:active, fieldset[disabled] .btn-default.active {
-  background-color: #4e5d6c;
+  background-color: #539800;
   border-color: rgba(255, 255, 255, 0);
 }
 /* line 40, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
 .btn-default .badge {
-  color: #4e5d6c;
+  color: #539800;
   background-color: white;
 }
 
 /* line 63, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-primary {
   color: white;
-  background-color: #df691a;
+  background-color: #539800;
   border-color: rgba(255, 255, 255, 0);
 }
 /* line 16, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle {
   color: white;
-  background-color: #b15315;
+  background-color: #376500;
   border-color: rgba(255, 194, 194, 0);
 }
 /* line 23, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
@@ -4196,12 +4196,12 @@ select[multiple].input-lg,
 }
 /* line 34, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
 .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled.focus, .btn-primary.disabled:active, .btn-primary.disabled.active, .btn-primary[disabled], .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary[disabled].focus, .btn-primary[disabled]:active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary.active {
-  background-color: #df691a;
+  background-color: #539800;
   border-color: rgba(255, 255, 255, 0);
 }
 /* line 40, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_buttons.scss */
 .btn-primary .badge {
-  color: #df691a;
+  color: #539800;
   background-color: white;
 }
 
@@ -4315,7 +4315,7 @@ select[multiple].input-lg,
 
 /* line 88, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-link {
-  color: #df691a;
+  color: #539800;
   font-weight: normal;
   border-radius: 0;
 }
@@ -4331,7 +4331,7 @@ select[multiple].input-lg,
 }
 /* line 108, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_buttons.scss */
 .btn-link:hover, .btn-link:focus {
-  color: #df691a;
+  color: #539800;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -4465,10 +4465,10 @@ tbody.collapse.in {
   list-style: none;
   font-size: 15px;
   text-align: left;
-  background-color: #4e5d6c;
+  background-color: #539800;
   border: 1px solid rgba(255, 255, 255, 0);
   border: 1px solid rgba(255, 255, 255, 0);
-  border-radius: 0;
+  border-radius: 2px;
   -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
   background-clip: padding-box;
@@ -4500,7 +4500,7 @@ tbody.collapse.in {
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
   text-decoration: none;
   color: black;
-  background-color: #4e5d6c;
+  background-color: #539800;
 }
 
 /* line 88, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_dropdowns.scss */
@@ -4508,7 +4508,7 @@ tbody.collapse.in {
   color: white;
   text-decoration: none;
   outline: 0;
-  background-color: #df691a;
+  background-color: #539800;
 }
 
 /* line 103, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_dropdowns.scss */
@@ -4785,13 +4785,13 @@ tbody.collapse.in {
 }
 /* line 178, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_button-groups.scss */
 .btn-group-vertical > .btn:first-child:not(:last-child) {
-  border-top-right-radius: 0;
+  border-top-right-radius: 2px;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
 /* line 182, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_button-groups.scss */
 .btn-group-vertical > .btn:last-child:not(:first-child) {
-  border-bottom-left-radius: 0;
+  border-bottom-left-radius: 2px;
   border-top-right-radius: 0;
   border-top-left-radius: 0;
 }
@@ -4895,11 +4895,11 @@ tbody.collapse.in {
   font-size: 15px;
   font-weight: normal;
   line-height: 1;
-  color: white;
+  color: black;
   text-align: center;
-  background-color: #4e5d6c;
+  background-color: #539800;
   border: 1px solid rgba(255, 255, 255, 0);
-  border-radius: 0;
+  border-radius: 2px;
 }
 /* line 85, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_input-groups.scss */
 .input-group-addon.input-sm,
@@ -5015,23 +5015,23 @@ tbody.collapse.in {
 /* line 24, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav > li > a:hover, .nav > li > a:focus {
   text-decoration: none;
-  background-color: #4e5d6c;
+  background-color: #539800;
 }
 /* line 31, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav > li.disabled > a {
-  color: #4e5d6c;
+  color: #539800;
 }
 /* line 35, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav > li.disabled > a:hover, .nav > li.disabled > a:focus {
-  color: #4e5d6c;
+  color: #539800;
   text-decoration: none;
   background-color: transparent;
   cursor: not-allowed;
 }
 /* line 48, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
-  background-color: #4e5d6c;
-  border-color: #df691a;
+  background-color: #539800;
+  border-color: #539800;
 }
 /* line 59, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav .nav-divider {
@@ -5059,17 +5059,17 @@ tbody.collapse.in {
   margin-right: 2px;
   line-height: 1.428571429;
   border: 1px solid transparent;
-  border-radius: 0 0 0 0;
+  border-radius: 2px 2px 0 0;
 }
 /* line 89, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav-tabs > li > a:hover {
-  border-color: #4e5d6c #4e5d6c rgba(255, 255, 255, 0);
+  border-color: #539800 #539800 rgba(255, 255, 255, 0);
 }
 /* line 98, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
   color: black;
   background-color: white;
-  border: 1px solid #4e5d6c;
+  border: 1px solid #539800;
   border-bottom-color: transparent;
   cursor: default;
 }
@@ -5080,7 +5080,7 @@ tbody.collapse.in {
 }
 /* line 122, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav-pills > li > a {
-  border-radius: 0;
+  border-radius: 2px;
 }
 /* line 125, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav-pills > li + li {
@@ -5089,7 +5089,7 @@ tbody.collapse.in {
 /* line 133, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
   color: white;
-  background-color: #df691a;
+  background-color: #539800;
 }
 
 /* line 144, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
@@ -5139,7 +5139,7 @@ tbody.collapse.in {
 /* line 193, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav-tabs-justified > li > a, .nav-tabs.nav-justified > li > a {
   margin-right: 0;
-  border-radius: 0;
+  border-radius: 2px;
 }
 /* line 201, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
 .nav-tabs-justified > .active > a, .nav-tabs.nav-justified > .active > a,
@@ -5147,13 +5147,13 @@ tbody.collapse.in {
 .nav-tabs.nav-justified > .active > a:hover,
 .nav-tabs-justified > .active > a:focus,
 .nav-tabs.nav-justified > .active > a:focus {
-  border: 1px solid #4e5d6c;
+  border: 1px solid #539800;
 }
 @media (min-width: 768px) {
   /* line 206, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
   .nav-tabs-justified > li > a, .nav-tabs.nav-justified > li > a {
-    border-bottom: 1px solid #4e5d6c;
-    border-radius: 0 0 0 0;
+    border-bottom: 1px solid #539800;
+    border-radius: 2px 2px 0 0;
   }
   /* line 212, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navs.scss */
   .nav-tabs-justified > .active > a, .nav-tabs.nav-justified > .active > a,
@@ -5161,7 +5161,7 @@ tbody.collapse.in {
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: #4e5d6c;
+    border-bottom-color: #539800;
   }
 }
 
@@ -5202,7 +5202,7 @@ tbody.collapse.in {
 @media (min-width: 768px) {
   /* line 11, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar {
-    border-radius: 0;
+    border-radius: 2px;
   }
 }
 
@@ -5377,7 +5377,7 @@ tbody.collapse.in {
   background-color: transparent;
   background-image: none;
   border: 1px solid transparent;
-  border-radius: 0;
+  border-radius: 2px;
 }
 /* line 207, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-toggle:focus {
@@ -5712,7 +5712,7 @@ tbody.collapse.in {
 
 /* line 530, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-inverse {
-  background-color: #df691a;
+  background-color: #539800;
   border-color: rgba(255, 255, 255, 0);
 }
 /* line 534, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
@@ -5735,12 +5735,12 @@ tbody.collapse.in {
 /* line 552, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
   color: black;
-  background-color: #c85e17;
+  background-color: #457f00;
 }
 /* line 560, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
   color: black;
-  background-color: #c85e17;
+  background-color: #457f00;
 }
 /* line 568, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-inverse .navbar-nav > .disabled > a, .navbar-inverse .navbar-nav > .disabled > a:hover, .navbar-inverse .navbar-nav > .disabled > a:focus {
@@ -5753,7 +5753,7 @@ tbody.collapse.in {
 }
 /* line 579, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-  background-color: #c85e17;
+  background-color: #457f00;
 }
 /* line 582, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-inverse .navbar-toggle .icon-bar {
@@ -5762,11 +5762,11 @@ tbody.collapse.in {
 /* line 588, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
-  border-color: #bf5a16;
+  border-color: #407400;
 }
 /* line 597, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #c85e17;
+  background-color: #457f00;
   color: black;
 }
 @media (max-width: 767px) {
@@ -5785,12 +5785,12 @@ tbody.collapse.in {
   /* line 615, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
     color: black;
-    background-color: #c85e17;
+    background-color: #457f00;
   }
   /* line 623, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: black;
-    background-color: #c85e17;
+    background-color: #457f00;
   }
   /* line 631, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a, .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:focus {
@@ -5824,8 +5824,8 @@ tbody.collapse.in {
   padding: 8px 15px;
   margin-bottom: 21px;
   list-style: none;
-  background-color: #4e5d6c;
-  border-radius: 0;
+  background-color: #539800;
+  border-radius: 2px;
 }
 /* line 13, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_breadcrumbs.scss */
 .breadcrumb > li {
@@ -5847,7 +5847,7 @@ tbody.collapse.in {
   display: inline-block;
   padding-left: 0;
   margin: 21px 0;
-  border-radius: 0;
+  border-radius: 2px;
 }
 /* line 10, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_pagination.scss */
 .pagination > li {
@@ -5862,7 +5862,7 @@ tbody.collapse.in {
   line-height: 1.428571429;
   text-decoration: none;
   color: black;
-  background-color: #4e5d6c;
+  background-color: #539800;
   border: 1px solid rgba(255, 255, 255, 0);
   margin-left: -1px;
 }
@@ -5870,21 +5870,21 @@ tbody.collapse.in {
 .pagination > li:first-child > a,
 .pagination > li:first-child > span {
   margin-left: 0;
-  border-bottom-left-radius: 0;
-  border-top-left-radius: 0;
+  border-bottom-left-radius: 2px;
+  border-top-left-radius: 2px;
 }
 /* line 33, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_pagination.scss */
 .pagination > li:last-child > a,
 .pagination > li:last-child > span {
-  border-bottom-right-radius: 0;
-  border-top-right-radius: 0;
+  border-bottom-right-radius: 2px;
+  border-top-right-radius: 2px;
 }
 /* line 42, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_pagination.scss */
 .pagination > li > a:hover, .pagination > li > a:focus,
 .pagination > li > span:hover,
 .pagination > li > span:focus {
   color: black;
-  background-color: #485563;
+  background-color: #4b8900;
   border-color: rgba(255, 255, 255, 0);
 }
 /* line 53, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_pagination.scss */
@@ -5894,7 +5894,7 @@ tbody.collapse.in {
 .pagination > .active > span:focus {
   z-index: 2;
   color: black;
-  background-color: #df691a;
+  background-color: #539800;
   border-color: rgba(255, 255, 255, 0);
   cursor: default;
 }
@@ -5905,8 +5905,8 @@ tbody.collapse.in {
 .pagination > .disabled > a,
 .pagination > .disabled > a:hover,
 .pagination > .disabled > a:focus {
-  color: #323c46;
-  background-color: #4e5d6c;
+  color: #2f5600;
+  background-color: #539800;
   border-color: rgba(255, 255, 255, 0);
   cursor: not-allowed;
 }
@@ -5974,7 +5974,7 @@ tbody.collapse.in {
 .pager li > span {
   display: inline-block;
   padding: 5px 14px;
-  background-color: #4e5d6c;
+  background-color: #539800;
   border: 1px solid rgba(255, 255, 255, 0);
   border-radius: 15px;
 }
@@ -5982,7 +5982,7 @@ tbody.collapse.in {
 .pager li > a:hover,
 .pager li > a:focus {
   text-decoration: none;
-  background-color: #485563;
+  background-color: #4b8900;
 }
 /* line 32, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_pager.scss */
 .pager .next > a,
@@ -5999,8 +5999,8 @@ tbody.collapse.in {
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #323c46;
-  background-color: #4e5d6c;
+  color: #2f5600;
+  background-color: #539800;
   cursor: not-allowed;
 }
 
@@ -6045,11 +6045,11 @@ a.label:hover, a.label:focus {
 
 /* line 48, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_labels.scss */
 .label-primary {
-  background-color: #df691a;
+  background-color: #539800;
 }
 /* line 8, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_labels.scss */
 .label-primary[href]:hover, .label-primary[href]:focus {
-  background-color: #b15315;
+  background-color: #376500;
 }
 
 /* line 52, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_labels.scss */
@@ -6119,7 +6119,7 @@ a.label:hover, a.label:focus {
 }
 /* line 40, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_badges.scss */
 a.list-group-item.active > .badge, .nav-pills > .active > a > .badge {
-  color: #df691a;
+  color: #539800;
   background-color: white;
 }
 /* line 44, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_badges.scss */
@@ -6139,7 +6139,7 @@ a.badge:hover, a.badge:focus {
   padding: 30px 15px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #4e5d6c;
+  background-color: #539800;
 }
 /* line 13, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_jumbotron.scss */
 .jumbotron h1,
@@ -6154,7 +6154,7 @@ a.badge:hover, a.badge:focus {
 }
 /* line 22, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_jumbotron.scss */
 .jumbotron > hr {
-  border-top-color: #39444e;
+  border-top-color: #376500;
 }
 /* line 27, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_jumbotron.scss */
 .container .jumbotron, .container-fluid .jumbotron {
@@ -6189,7 +6189,7 @@ a.badge:hover, a.badge:focus {
   line-height: 1.428571429;
   background-color: white;
   border: 1px solid #dddddd;
-  border-radius: 0;
+  border-radius: 2px;
   -webkit-transition: border 0.2s ease-in-out;
   -o-transition: border 0.2s ease-in-out;
   transition: border 0.2s ease-in-out;
@@ -6213,7 +6213,7 @@ a.badge:hover, a.badge:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #df691a;
+  border-color: #539800;
 }
 
 /* line 9, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_alerts.scss */
@@ -6221,7 +6221,7 @@ a.thumbnail.active {
   padding: 15px;
   margin-bottom: 21px;
   border: 1px solid transparent;
-  border-radius: 0;
+  border-radius: 2px;
 }
 /* line 16, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_alerts.scss */
 .alert h4 {
@@ -6345,8 +6345,8 @@ a.thumbnail.active {
   overflow: hidden;
   height: 21px;
   margin-bottom: 21px;
-  background-color: #4e5d6c;
-  border-radius: 0;
+  background-color: #539800;
+  border-radius: 2px;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
 }
@@ -6360,7 +6360,7 @@ a.thumbnail.active {
   line-height: 21px;
   color: white;
   text-align: center;
-  background-color: #df691a;
+  background-color: #539800;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   -webkit-transition: width 0.6s ease;
@@ -6492,19 +6492,19 @@ a.thumbnail.active {
   display: block;
   padding: 10px 15px;
   margin-bottom: -1px;
-  background-color: #4e5d6c;
+  background-color: #539800;
   border: 1px solid rgba(255, 255, 255, 0);
 }
 /* line 31, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_list-group.scss */
 .list-group-item:first-child {
-  border-top-right-radius: 0;
-  border-top-left-radius: 0;
+  border-top-right-radius: 2px;
+  border-top-left-radius: 2px;
 }
 /* line 34, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_list-group.scss */
 .list-group-item:last-child {
   margin-bottom: 0;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 2px;
 }
 /* line 40, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_list-group.scss */
 .list-group-item > .badge {
@@ -6527,7 +6527,7 @@ a.list-group-item .list-group-item-heading {
 a.list-group-item:hover, a.list-group-item:focus {
   text-decoration: none;
   color: black;
-  background-color: #485563;
+  background-color: #4b8900;
 }
 
 /* line 74, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_list-group.scss */
@@ -6548,8 +6548,8 @@ a.list-group-item:hover, a.list-group-item:focus {
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
   z-index: 2;
   color: white;
-  background-color: #df691a;
-  border-color: #df691a;
+  background-color: #539800;
+  border-color: #539800;
 }
 /* line 100, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_list-group.scss */
 .list-group-item.active .list-group-item-heading,
@@ -6563,7 +6563,7 @@ a.list-group-item:hover, a.list-group-item:focus {
 }
 /* line 103, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_list-group.scss */
 .list-group-item.active .list-group-item-text, .list-group-item.active:hover .list-group-item-text, .list-group-item.active:focus .list-group-item-text {
-  color: #f9decc;
+  color: #b9ff65;
 }
 
 /* line 4, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_list-group.scss */
@@ -6685,9 +6685,9 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 /* line 7, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel {
   margin-bottom: 21px;
-  background-color: #4e5d6c;
+  background-color: #539800;
   border: 1px solid transparent;
-  border-radius: 0;
+  border-radius: 2px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 }
@@ -6710,8 +6710,8 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 .panel-heading {
   padding: 10px 15px;
   border-bottom: 1px solid transparent;
-  border-top-right-radius: -1;
-  border-top-left-radius: -1;
+  border-top-right-radius: 1px;
+  border-top-left-radius: 1px;
 }
 /* line 27, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel-heading > .dropdown .dropdown-toggle {
@@ -6733,10 +6733,10 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 /* line 45, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel-footer {
   padding: 10px 15px;
-  background-color: #485563;
+  background-color: #4b8900;
   border-top: 1px solid rgba(255, 255, 255, 0);
-  border-bottom-right-radius: -1;
-  border-bottom-left-radius: -1;
+  border-bottom-right-radius: 1px;
+  border-bottom-left-radius: 1px;
 }
 
 /* line 60, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
@@ -6754,15 +6754,15 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 .panel > .list-group:first-child .list-group-item:first-child,
 .panel > .panel-collapse > .list-group:first-child .list-group-item:first-child {
   border-top: 0;
-  border-top-right-radius: -1;
-  border-top-left-radius: -1;
+  border-top-right-radius: 1px;
+  border-top-left-radius: 1px;
 }
 /* line 77, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .list-group:last-child .list-group-item:last-child,
 .panel > .panel-collapse > .list-group:last-child .list-group-item:last-child {
   border-bottom: 0;
-  border-bottom-right-radius: -1;
-  border-bottom-left-radius: -1;
+  border-bottom-right-radius: 1px;
+  border-bottom-left-radius: 1px;
 }
 
 /* line 86, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
@@ -6791,16 +6791,16 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 /* line 112, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .table:first-child,
 .panel > .table-responsive:first-child > .table:first-child {
-  border-top-right-radius: -1;
-  border-top-left-radius: -1;
+  border-top-right-radius: 1px;
+  border-top-left-radius: 1px;
 }
 /* line 117, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .table:first-child > thead:first-child > tr:first-child,
 .panel > .table:first-child > tbody:first-child > tr:first-child,
 .panel > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child,
 .panel > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child {
-  border-top-left-radius: -1;
-  border-top-right-radius: -1;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
 }
 /* line 122, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .table:first-child > thead:first-child > tr:first-child td:first-child,
@@ -6811,7 +6811,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 .panel > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child th:first-child,
 .panel > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child td:first-child,
 .panel > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child th:first-child {
-  border-top-left-radius: -1;
+  border-top-left-radius: 1px;
 }
 /* line 126, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .table:first-child > thead:first-child > tr:first-child td:last-child,
@@ -6822,21 +6822,21 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 .panel > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child th:last-child,
 .panel > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child td:last-child,
 .panel > .table-responsive:first-child > .table:first-child > tbody:first-child > tr:first-child th:last-child {
-  border-top-right-radius: -1;
+  border-top-right-radius: 1px;
 }
 /* line 134, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .table:last-child,
 .panel > .table-responsive:last-child > .table:last-child {
-  border-bottom-right-radius: -1;
-  border-bottom-left-radius: -1;
+  border-bottom-right-radius: 1px;
+  border-bottom-left-radius: 1px;
 }
 /* line 139, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .table:last-child > tbody:last-child > tr:last-child,
 .panel > .table:last-child > tfoot:last-child > tr:last-child,
 .panel > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child,
 .panel > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child {
-  border-bottom-left-radius: -1;
-  border-bottom-right-radius: -1;
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
 }
 /* line 144, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .table:last-child > tbody:last-child > tr:last-child td:first-child,
@@ -6847,7 +6847,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 .panel > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child th:first-child,
 .panel > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child td:first-child,
 .panel > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child th:first-child {
-  border-bottom-left-radius: -1;
+  border-bottom-left-radius: 1px;
 }
 /* line 148, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .table:last-child > tbody:last-child > tr:last-child td:last-child,
@@ -6858,14 +6858,14 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 .panel > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child th:last-child,
 .panel > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child td:last-child,
 .panel > .table-responsive:last-child > .table:last-child > tfoot:last-child > tr:last-child th:last-child {
-  border-bottom-right-radius: -1;
+  border-bottom-right-radius: 1px;
 }
 /* line 157, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .panel-body + .table,
 .panel > .panel-body + .table-responsive,
 .panel > .table + .panel-body,
 .panel > .table-responsive + .panel-body {
-  border-top: 1px solid #4e5d6c;
+  border-top: 1px solid #539800;
 }
 /* line 161, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel > .table > tbody:first-child > tr:first-child th,
@@ -6979,7 +6979,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 /* line 216, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel-group .panel {
   margin-bottom: 0;
-  border-radius: 0;
+  border-radius: 2px;
 }
 /* line 220, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_panels.scss */
 .panel-group .panel + .panel {
@@ -7034,7 +7034,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 /* line 6, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_panels.scss */
 .panel-primary > .panel-heading {
   color: white;
-  background-color: #df691a;
+  background-color: #539800;
   border-color: rgba(255, 255, 255, 0);
 }
 /* line 11, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_panels.scss */
@@ -7043,7 +7043,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 }
 /* line 14, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_panels.scss */
 .panel-primary > .panel-heading .badge {
-  color: #df691a;
+  color: #539800;
   background-color: white;
 }
 /* line 20, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/mixins/_panels.scss */
@@ -7183,9 +7183,9 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
   min-height: 20px;
   padding: 19px;
   margin-bottom: 20px;
-  background-color: #4e5d6c;
+  background-color: #539800;
   border: 1px solid rgba(255, 255, 255, 0);
-  border-radius: 0;
+  border-radius: 2px;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
 }
@@ -7289,7 +7289,7 @@ button.close {
 /* line 51, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_modals.scss */
 .modal-content {
   position: relative;
-  background-color: #4e5d6c;
+  background-color: #539800;
   border: 1px solid rgba(255, 255, 255, 0);
   border: 1px solid rgba(255, 255, 255, 0);
   border-radius: 0;
@@ -7450,7 +7450,7 @@ button.close {
   text-align: center;
   text-decoration: none;
   background-color: black;
-  border-radius: 0;
+  border-radius: 2px;
 }
 
 /* line 35, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_tooltip.scss */
@@ -7536,7 +7536,7 @@ button.close {
   font-weight: normal;
   line-height: 1.428571429;
   text-align: left;
-  background-color: #4e5d6c;
+  background-color: #539800;
   background-clip: padding-box;
   border: 1px solid rgba(255, 255, 255, 0);
   border: 1px solid rgba(255, 255, 255, 0);
@@ -7567,8 +7567,8 @@ button.close {
   margin: 0;
   padding: 8px 14px;
   font-size: 15px;
-  background-color: #485563;
-  border-bottom: 1px solid #3d4954;
+  background-color: #4b8900;
+  border-bottom: 1px solid #3d6f00;
   border-radius: -1 -1 0 0;
 }
 
@@ -7613,7 +7613,7 @@ button.close {
   bottom: 1px;
   margin-left: -10px;
   border-bottom-width: 0;
-  border-top-color: #4e5d6c;
+  border-top-color: #539800;
 }
 /* line 88, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_popovers.scss */
 .popover.right > .arrow {
@@ -7630,7 +7630,7 @@ button.close {
   left: 1px;
   bottom: -10px;
   border-left-width: 0;
-  border-right-color: #4e5d6c;
+  border-right-color: #539800;
 }
 /* line 103, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_popovers.scss */
 .popover.bottom > .arrow {
@@ -7647,7 +7647,7 @@ button.close {
   top: 1px;
   margin-left: -10px;
   border-top-width: 0;
-  border-bottom-color: #4e5d6c;
+  border-bottom-color: #539800;
 }
 /* line 119, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.3.0.1/assets/stylesheets/bootstrap/_popovers.scss */
 .popover.left > .arrow {
@@ -7663,7 +7663,7 @@ button.close {
   content: " ";
   right: 1px;
   border-right-width: 0;
-  border-left-color: #4e5d6c;
+  border-left-color: #539800;
   bottom: -10px;
 }
 
@@ -11064,7 +11064,7 @@ div.vertical-tabs ul.vertical-tabs-list li a {
 /* line 72, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/compass_radix-3.1.2/stylesheets/compass_radix/_structure.scss */
 div.vertical-tabs ul.vertical-tabs-list li a:hover {
   color: #fff;
-  background: #df691a;
+  background: #539800;
   text-decoration: none;
 }
 /* line 76, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/compass_radix-3.1.2/stylesheets/compass_radix/_structure.scss */
@@ -11096,7 +11096,7 @@ table td {
   line-height: 1.428571429;
   text-align: left;
   vertical-align: top;
-  border-top: 1px solid #4e5d6c;
+  border-top: 1px solid #539800;
 }
 /* line 106, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/compass_radix-3.1.2/stylesheets/compass_radix/_structure.scss */
 table th.checkbox,
@@ -11140,7 +11140,7 @@ table thead:first-child tr:first-child td {
 }
 /* line 141, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/compass_radix-3.1.2/stylesheets/compass_radix/_structure.scss */
 table tbody + tbody {
-  border-top: 2px solid #4e5d6c;
+  border-top: 2px solid #539800;
 }
 
 /* line 148, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/compass_radix-3.1.2/stylesheets/compass_radix/_structure.scss */
@@ -11434,7 +11434,7 @@ ul.nav > li.dropdown:after {
 }
 /* line 35, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/compass_radix-3.1.2/stylesheets/compass_radix/_menu.scss */
 .nav-expanded > li > a:hover, .nav-expanded > li > a:focus, .nav-expanded > li > a.active, .nav-expanded > li > a.active-trail {
-  color: #df691a;
+  color: #539800;
   background: none;
 }
 /* line 40, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/compass_radix-3.1.2/stylesheets/compass_radix/_menu.scss */
@@ -11460,7 +11460,7 @@ ul.nav > li.dropdown:after {
 }
 /* line 53, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/compass_radix-3.1.2/stylesheets/compass_radix/_menu.scss */
 .nav-expanded > li ul.dropdown-menu li a:hover, .nav-expanded > li ul.dropdown-menu li a:focus, .nav-expanded > li ul.dropdown-menu li a.active, .nav-expanded > li ul.dropdown-menu li a.active-trail {
-  color: #df691a;
+  color: #539800;
   background: none;
 }
 /* line 59, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/compass_radix-3.1.2/stylesheets/compass_radix/_menu.scss */
@@ -11481,7 +11481,7 @@ ul.nav > li.dropdown:after {
 }
 /* line 71, ../../../../../../../../../../home/vagrant/.rvm/gems/ruby-2.1.3/gems/compass_radix-3.1.2/stylesheets/compass_radix/_menu.scss */
 .nav-expanded > li.open > a:hover, .nav-expanded > li.open > a:focus, .nav-expanded > li.open > a.active, .nav-expanded > li.open > a.active-trail {
-  color: #df691a;
+  color: #539800;
   background: none;
 }
 
@@ -11698,8 +11698,8 @@ html.js fieldset.collapsed {
   min-height: 20px;
   padding: 19px;
   margin-bottom: 20px;
-  background-color: #4e5d6c;
-  border: 1px solid #3f4b57;
+  background-color: #539800;
+  border: 1px solid #407400;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
@@ -11738,8 +11738,8 @@ html.js fieldset.collapsed {
   min-height: 20px;
   padding: 19px;
   margin-bottom: 20px;
-  background-color: #4e5d6c;
-  border: 1px solid #3f4b57;
+  background-color: #539800;
+  border: 1px solid #407400;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
@@ -11927,9 +11927,11 @@ html.js fieldset.collapsed {
   left: 0;
   right: 0;
   top: 0;
+  -webkit-box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.3);
 }
 
-/* line 18, ../sass/bootswatch/_bootswatch.scss */
+/* line 19, ../sass/bootswatch/_bootswatch.scss */
 .navbar {
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -11937,132 +11939,133 @@ html.js fieldset.collapsed {
   font-weight: 300;
   margin: 0;
 }
-/* line 24, ../sass/bootswatch/_bootswatch.scss */
+/* line 25, ../sass/bootswatch/_bootswatch.scss */
 .navbar #navbar-collapse {
   padding: 0;
 }
-/* line 28, ../sass/bootswatch/_bootswatch.scss */
+/* line 29, ../sass/bootswatch/_bootswatch.scss */
 .navbar #main-menu {
   float: right;
 }
-/* line 32, ../sass/bootswatch/_bootswatch.scss */
+/* line 33, ../sass/bootswatch/_bootswatch.scss */
 .navbar #logo {
   padding: 15px;
   padding-left: 0;
 }
-/* line 36, ../sass/bootswatch/_bootswatch.scss */
+/* line 37, ../sass/bootswatch/_bootswatch.scss */
 .navbar #logo img {
   height: 40px;
 }
-/* line 42, ../sass/bootswatch/_bootswatch.scss */
+/* line 43, ../sass/bootswatch/_bootswatch.scss */
 .navbar.navbar-default .navbar-nav a {
   text-transform: uppercase;
   -webkit-transition: all, 0.4s, ease, 0s, color, 0.4s, ease, 0s;
   -o-transition: all, 0.4s, ease, 0s, color, 0.4s, ease, 0s;
   transition: all, 0.4s, ease, 0s, color, 0.4s, ease, 0s;
 }
-/* line 47, ../sass/bootswatch/_bootswatch.scss */
+/* line 48, ../sass/bootswatch/_bootswatch.scss */
 .navbar.navbar-default .navbar-nav a.login, .navbar.navbar-default .navbar-nav a.register {
   border: 1px solid #555555;
   border-radius: 2px;
   padding: 0 15px;
   margin: 24.5px 15px;
 }
-/* line 52, ../sass/bootswatch/_bootswatch.scss */
-.navbar.navbar-default .navbar-nav a.login:hover, .navbar.navbar-default .navbar-nav a.register:hover {
+/* line 54, ../sass/bootswatch/_bootswatch.scss */
+.navbar.navbar-default .navbar-nav a.login.active, .navbar.navbar-default .navbar-nav a.login:hover, .navbar.navbar-default .navbar-nav a.register.active, .navbar.navbar-default .navbar-nav a.register:hover {
   background: transparent;
   border-color: #539800;
 }
 
-/* line 64, ../sass/bootswatch/_bootswatch.scss */
+/* line 66, ../sass/bootswatch/_bootswatch.scss */
 .btn {
   font-weight: 300;
 }
-/* line 69, ../sass/bootswatch/_bootswatch.scss */
+/* line 71, ../sass/bootswatch/_bootswatch.scss */
 .btn.btn-default:hover {
-  background-color: #485563;
+  background-color: #4b8900;
 }
-/* line 75, ../sass/bootswatch/_bootswatch.scss */
+/* line 77, ../sass/bootswatch/_bootswatch.scss */
 .btn.btn-sm, .btn-group-sm > .btn, .btn.btn-xs, .btn-group-xs > .btn {
   font-size: 12px;
 }
 
-/* line 82, ../sass/bootswatch/_bootswatch.scss */
+/* line 84, ../sass/bootswatch/_bootswatch.scss */
 body {
   font-weight: 300;
 }
 
-/* line 87, ../sass/bootswatch/_bootswatch.scss */
+/* line 89, ../sass/bootswatch/_bootswatch.scss */
 .text-primary,
 .text-primary:hover {
-  color: #df691a;
+  color: #539800;
 }
 
-/* line 92, ../sass/bootswatch/_bootswatch.scss */
+/* line 94, ../sass/bootswatch/_bootswatch.scss */
 .text-success,
 .text-success:hover {
   color: #5cb85c;
 }
 
-/* line 97, ../sass/bootswatch/_bootswatch.scss */
+/* line 99, ../sass/bootswatch/_bootswatch.scss */
 .text-danger,
 .text-danger:hover {
   color: #d9534f;
 }
 
-/* line 102, ../sass/bootswatch/_bootswatch.scss */
+/* line 104, ../sass/bootswatch/_bootswatch.scss */
 .text-warning,
 .text-warning:hover {
   color: #f0ad4e;
 }
 
-/* line 107, ../sass/bootswatch/_bootswatch.scss */
+/* line 109, ../sass/bootswatch/_bootswatch.scss */
 .text-info,
 .text-info:hover {
   color: #5bc0de;
 }
 
-/* line 111, ../sass/bootswatch/_bootswatch.scss */
+/* line 113, ../sass/bootswatch/_bootswatch.scss */
 .page-header {
-  border-bottom-color: #4e5d6c;
+  margin-top: 35px;
+  border: none;
 }
 
-/* line 115, ../sass/bootswatch/_bootswatch.scss */
+/* line 118, ../sass/bootswatch/_bootswatch.scss */
 .dropdown-menu {
   border: none;
   margin: 0;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
-/* line 121, ../sass/bootswatch/_bootswatch.scss */
+/* line 124, ../sass/bootswatch/_bootswatch.scss */
 .dropdown-menu > li > a {
   font-size: 12px;
   font-weight: 300;
 }
 
-/* line 127, ../sass/bootswatch/_bootswatch.scss */
+/* line 130, ../sass/bootswatch/_bootswatch.scss */
 .btn-group.open .dropdown-toggle {
   -webkit-box-shadow: none;
   box-shadow: none;
 }
 
-/* line 131, ../sass/bootswatch/_bootswatch.scss */
+/* line 134, ../sass/bootswatch/_bootswatch.scss */
 .dropdown-header {
   font-size: 12px;
 }
 
-/* line 138, ../sass/bootswatch/_bootswatch.scss */
+/* line 141, ../sass/bootswatch/_bootswatch.scss */
 table,
 .table {
   font-size: 12px;
 }
-/* line 141, ../sass/bootswatch/_bootswatch.scss */
+/* line 144, ../sass/bootswatch/_bootswatch.scss */
 table a,
 .table a {
   color: #fff;
   text-decoration: underline;
 }
-/* line 151, ../sass/bootswatch/_bootswatch.scss */
+/* line 154, ../sass/bootswatch/_bootswatch.scss */
 table > thead > tr > th,
 table > tbody > tr > th,
 table > tfoot > tr > th,
@@ -12078,7 +12081,7 @@ table > tfoot > tr > td,
   border-color: transparent;
 }
 
-/* line 161, ../sass/bootswatch/_bootswatch.scss */
+/* line 164, ../sass/bootswatch/_bootswatch.scss */
 label,
 .radio label,
 .checkbox label,
@@ -12087,37 +12090,37 @@ label,
   font-weight: 300;
 }
 
-/* line 167, ../sass/bootswatch/_bootswatch.scss */
+/* line 170, ../sass/bootswatch/_bootswatch.scss */
 .input-addon,
 .input-group-addon {
   color: black;
 }
 
-/* line 173, ../sass/bootswatch/_bootswatch.scss */
+/* line 176, ../sass/bootswatch/_bootswatch.scss */
 .has-warning .help-block,
 .has-warning .control-label {
   color: #f0ad4e;
 }
 
-/* line 180, ../sass/bootswatch/_bootswatch.scss */
+/* line 183, ../sass/bootswatch/_bootswatch.scss */
 .has-error .help-block,
 .has-error .control-label {
   color: #d9534f;
 }
 
-/* line 187, ../sass/bootswatch/_bootswatch.scss */
+/* line 190, ../sass/bootswatch/_bootswatch.scss */
 .has-success .help-block,
 .has-success .control-label {
   color: #5cb85c;
 }
 
-/* line 192, ../sass/bootswatch/_bootswatch.scss */
+/* line 195, ../sass/bootswatch/_bootswatch.scss */
 .form-control:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
 }
 
-/* line 199, ../sass/bootswatch/_bootswatch.scss */
+/* line 202, ../sass/bootswatch/_bootswatch.scss */
 .has-warning .form-control:focus,
 .has-error .form-control:focus,
 .has-success .form-control:focus {
@@ -12125,86 +12128,86 @@ label,
   box-shadow: none;
 }
 
-/* line 209, ../sass/bootswatch/_bootswatch.scss */
+/* line 212, ../sass/bootswatch/_bootswatch.scss */
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
   border-color: transparent;
 }
 
-/* line 215, ../sass/bootswatch/_bootswatch.scss */
+/* line 218, ../sass/bootswatch/_bootswatch.scss */
 .nav-tabs > li > a {
   color: black;
 }
 
-/* line 221, ../sass/bootswatch/_bootswatch.scss */
+/* line 224, ../sass/bootswatch/_bootswatch.scss */
 .nav-pills > li > a {
   color: black;
 }
 
-/* line 227, ../sass/bootswatch/_bootswatch.scss */
+/* line 230, ../sass/bootswatch/_bootswatch.scss */
 .pager a {
   color: black;
 }
 
-/* line 234, ../sass/bootswatch/_bootswatch.scss */
+/* line 237, ../sass/bootswatch/_bootswatch.scss */
 .close {
   opacity: 0.4;
 }
-/* line 238, ../sass/bootswatch/_bootswatch.scss */
+/* line 241, ../sass/bootswatch/_bootswatch.scss */
 .close:hover, .close:focus {
   opacity: 1;
 }
 
-/* line 243, ../sass/bootswatch/_bootswatch.scss */
+/* line 246, ../sass/bootswatch/_bootswatch.scss */
 .label {
   font-weight: 300;
 }
 
-/* line 247, ../sass/bootswatch/_bootswatch.scss */
+/* line 250, ../sass/bootswatch/_bootswatch.scss */
 .alert {
   color: #fff;
 }
-/* line 251, ../sass/bootswatch/_bootswatch.scss */
+/* line 254, ../sass/bootswatch/_bootswatch.scss */
 .alert a,
 .alert .alert-link {
   color: #fff;
 }
 
-/* line 260, ../sass/bootswatch/_bootswatch.scss */
+/* line 263, ../sass/bootswatch/_bootswatch.scss */
 .well {
   -webkit-box-shadow: none;
   box-shadow: none;
 }
 
-/* line 264, ../sass/bootswatch/_bootswatch.scss */
+/* line 267, ../sass/bootswatch/_bootswatch.scss */
 .panel {
   border: none;
 }
-/* line 267, ../sass/bootswatch/_bootswatch.scss */
+/* line 270, ../sass/bootswatch/_bootswatch.scss */
 .panel.panel-default > .panel-heading {
-  background-color: #485563;
+  background-color: #4b8900;
   color: black;
 }
 
-/* line 273, ../sass/bootswatch/_bootswatch.scss */
+/* line 276, ../sass/bootswatch/_bootswatch.scss */
 .thumbnail {
-  background-color: #4e5d6c;
+  background-color: #539800;
   border: none;
 }
 
-/* line 278, ../sass/bootswatch/_bootswatch.scss */
+/* line 281, ../sass/bootswatch/_bootswatch.scss */
 .modal {
   padding: 0;
 }
-/* line 282, ../sass/bootswatch/_bootswatch.scss */
+/* line 285, ../sass/bootswatch/_bootswatch.scss */
 .modal.modal-header, .modal.modal-footer {
-  background-color: #485563;
+  background-color: #4b8900;
   border: none;
   border-radius: 0;
 }
 
-/* line 290, ../sass/bootswatch/_bootswatch.scss */
+/* line 293, ../sass/bootswatch/_bootswatch.scss */
 .popover.popover-title {
   border: none;
 }
@@ -12214,12 +12217,20 @@ body {
   padding-top: 70px;
 }
 
-/* line 3, ../sass/partials/_page.scss */
-.pane-fpid-1 {
-  position: relative;
+/* line 7, ../sass/partials/_layout.scss */
+footer {
+  padding-top: 36px;
+  border-top: 1px solid #539800;
 }
-/* line 6, ../sass/partials/_page.scss */
-.pane-fpid-1 .field-name-field-basic-image-caption {
+
+/* line 3, ../sass/partials/_page.scss */
+.pane-fpid-2 {
+  position: relative;
+  background-image: url(../images/home.jpg);
+  background-size: cover;
+}
+/* line 8, ../sass/partials/_page.scss */
+.pane-fpid-2 .field-name-field-basic-text-text {
   position: absolute;
   z-index: 10;
   top: 50%;
@@ -12229,9 +12240,16 @@ body {
   transform: translate(30px, -50%);
   width: 50%;
 }
-/* line 13, ../sass/partials/_page.scss */
-.pane-fpid-1 .field-name-field-basic-image-caption h1 {
+/* line 15, ../sass/partials/_page.scss */
+.pane-fpid-2 .field-name-field-basic-text-text h1 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 4em;
   text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.4);
+}
+
+/* line 3, ../sass/partials/_form.scss */
+body .form-control {
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2);
+  border-bottom-color: rgba(235, 235, 235, 0.5);
 }

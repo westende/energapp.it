@@ -38,4 +38,6 @@ function energappit_preprocess_page(&$variables) {
   if ($copyright = theme_get_setting('copyright')) {
     $variables['copyright'] = check_markup($copyright['value'], $copyright['format']);
   }
+
+  $variables['breadcrumb'] = FALSE;
 }
