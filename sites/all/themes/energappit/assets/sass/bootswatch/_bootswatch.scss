@@ -6,10 +6,20 @@
 
 // Navbar =====================================================================
 
+#header {
+  background-color: rgba(white, 0.95);
+  position: fixed;
+  z-index: 150;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
 .navbar {
   @include box-shadow(none);
   border: none;
   font-weight: 300;
+  margin: 0;
 
   #navbar-collapse {
     padding: 0;

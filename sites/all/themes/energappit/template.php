@@ -30,6 +30,10 @@ function energappit_css_alter(&$css) {
  * Implements template_preprocess_page().
  */
 function energappit_preprocess_page(&$variables) {
+  if ($variables['is_front']) {
+    $variables['title'] = FALSE;
+  }
+
   // Add copyright to theme.
   if ($copyright = theme_get_setting('copyright')) {
     $variables['copyright'] = check_markup($copyright['value'], $copyright['format']);

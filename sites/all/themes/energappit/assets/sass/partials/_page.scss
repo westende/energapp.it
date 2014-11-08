@@ -1,2 +1,19 @@
 // Styles for individual pages
 // --------------------------------------------------
+.pane-fpid-1 {
+  position: relative;
+
+  .field-name-field-basic-image-caption {
+    position: absolute;
+    z-index: 10;
+    top: 50%;
+    @include translate($grid-gutter-width, -50%);
+    width: 50%;
+
+    h1 {
+      font-family: 'Ubuntu', sans-serif;
+      font-size: 4em;
+      @include single-text-shadow(rgba(black, 0.4), 1px, 1px, 10px);
+    }
+  }
+}
