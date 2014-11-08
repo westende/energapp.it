@@ -7,3 +7,6 @@ sites/*/private
 
 # Ignore SASS cache
 .sass-cache
+
+# Ignore IDE
+.idea
