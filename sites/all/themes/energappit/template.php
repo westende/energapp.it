@@ -31,6 +31,7 @@ function energappit_css_alter(&$css) {
  */
 function energappit_preprocess_page(&$variables) {
   if ($variables['is_front']) {
+    drupal_add_library('waypoints', 'waypoints');
     $variables['title'] = FALSE;
   }
 
@@ -40,4 +41,6 @@ function energappit_preprocess_page(&$variables) {
   }
 
   $variables['breadcrumb'] = FALSE;
+
+
 }
