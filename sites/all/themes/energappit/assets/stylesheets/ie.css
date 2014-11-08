@@ -3468,6 +3468,34 @@ footer {
   margin-top: -250px;
 }
 
+/* line 94, ../sass/partials/_page.scss */
+#usage {
+  height: 250px;
+}
+/* line 98, ../sass/partials/_page.scss */
+#usage .bar {
+  fill: #539800;
+}
+/* line 102, ../sass/partials/_page.scss */
+#usage .bar:hover {
+  fill: #376500;
+}
+/* line 106, ../sass/partials/_page.scss */
+#usage .axis {
+  font: 10px sans-serif;
+}
+/* line 111, ../sass/partials/_page.scss */
+#usage .axis path,
+#usage .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+/* line 117, ../sass/partials/_page.scss */
+#usage .x.axis path {
+  display: none;
+}
+
 /* line 3, ../sass/partials/_form.scss */
 body .form-control {
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2);

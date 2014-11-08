@@ -1,0 +1,5 @@
+name = energapp.it
+description = energapp.it
+core = 7.x
+
+dependencies[] = ctools
